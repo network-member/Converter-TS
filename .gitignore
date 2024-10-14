@@ -24,3 +24,5 @@ yarn-error.log*
 
 # eslint
 .eslintcache
+
+react-app-env.d.ts
